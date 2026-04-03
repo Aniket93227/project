@@ -1,2 +1,2 @@
-# social-links-profile
+# socila-link -profile
 Social links profile - Frontend Mentor Challenge
